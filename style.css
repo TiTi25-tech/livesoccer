@@ -1,0 +1,37 @@
+.bambi{
+    color: white;
+    text-align: center;
+    margin-left: 50px;
+    margin-right: 70px;
+    padding-top: 50px;
+    padding-bottom: 85px;
+}
+.alla{
+    background: linear-gradient( rgba(7, 6, 6, 0.74), rgba(0, 0, 0, 0.671)), url(football\ for\ soccertipsss3.jpg);
+    height: 50vh;
+}
+.halo{
+    background-color: white;
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    background-color: rgba(185, 181, 181, 0.507);
+    margin-top: 1rem;
+
+}
+.halo ul li{
+    display: inline-block;
+    margin-top: 18px;
+    margin-bottom: 10px;
+    margin-right:10px ;
+    margin-left: 10px;
+    
+}
+.beg{
+    word-spacing: 10px;
+    padding-top: 30px;
+}
+.text{
+    display: inline;
+    margin-left: 35rem;
+}
